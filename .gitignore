@@ -1,0 +1,6 @@
+references/local-profile.md
+.env*
+*.log
+__pycache__/
+private/
+outputs/
