@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书收藏旅行攻略"
+  short_description: "读取小红书收藏，结合必去项与旅行偏好，生成顺路且可执行的攻略"
+  default_prompt: "用 $xiaohongshu-travel-planner 读取我的小红书收藏夹，结合日期、住宿、必去项目和旅行偏好生成攻略，吃饭沿路线就近解决。"
